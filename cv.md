@@ -32,7 +32,7 @@ Thanks for reading 😊
 ## Education
 
 I am a student at the front-end development department of Rolling Scopes School.
-Also completed a course on the layout in it-incubator.
+Also took a course in layout at the it incubator.
 
 ## Language
 Russian - native
